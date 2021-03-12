@@ -14,6 +14,8 @@ Add the following styles to the page.
 - The grey background on the reviews section
 - The light grey on the guitar list elements
 
-By the end of your task, your site should look like this:
+### Video
 
-![Result of task 1.3](assets/html-css_task1-3_result.gif)
+This video shows you how to complete the lesson task 1.3. Only watch it after attempting the lesson task by yourself.
+
+[View on Vimeo](https://vimeo.com/478528726/8f53db0a5a)
